@@ -1,3 +1,3 @@
 <?php
-$telegramBotToken = "8889277356:AAFT2w2FstI96bszPyJcdFOLLiLq5uWJy4s"; // Ganti dengan token bot Anda
-$telegramChatID   = "7315314276";       // Ganti dengan ID Telegram Anda
+$telegramBotToken = "8945996781:AAHezvJQLwpTKMUouyCETmUT_xQMseR5aLE"; // Ganti dengan token bot Anda
+$telegramChatID   = "8217991585";       // Ganti dengan ID Telegram Anda
